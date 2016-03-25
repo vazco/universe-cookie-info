@@ -1,7 +1,7 @@
 Package.describe({
     name: 'universe:cookie-info',
     summary: 'Nag for informing about cookies.',
-    version: '0.0.1',
+    version: '0.0.2',
     readme: 'README.md',
     git: 'https://github.com/vazco/universe-cookie-info'
 });
