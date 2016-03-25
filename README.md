@@ -11,7 +11,7 @@ import CookieInfo from 'meteor/universe:cookie-info';
 ```
 
 ### Adding custom component as info content
-If you add your own component, you have to call props.onConsent() when user agrees.
+If you add your own component, you have to call `props.onConsent()` when user agrees.
 ```js
 import CookieInfo from 'meteor/universe:cookie-info';
 
@@ -35,7 +35,7 @@ const YourComponentWithInfo = (props) => (
 
 
 ### Removing default styling
-Just set "clearStyle" prop to CookieInfo.
+Just set "clearStyle" prop to `CookieInfo`.
 ```js
 <CookieInfo clearStyle>
     <YourComponentWithInfo />
