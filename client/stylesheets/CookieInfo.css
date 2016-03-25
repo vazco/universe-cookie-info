@@ -1,0 +1,34 @@
+.universe-cookie-info {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #222;
+    color: #fff;
+    padding: 15px 0;
+    z-index: 101;
+}
+.universe-cookie-info .cancel {
+    background-color:#3bccde;
+    border-radius:50%;
+    width:20px;
+    margin:0 auto;
+    height:20px;
+    display:block;
+    text-align:center;
+    text-decoration:none
+}
+.universe-cookie-info .cancel:before {
+    width:20px;
+    height:20px;
+    margin:0
+}
+
+.universe-cookie-info p {
+    line-height: 20px;
+}
+
+.universe-cookie-info a,
+.universe-cookie-info a.cancel {
+    color: inherit;
+}
