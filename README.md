@@ -1,4 +1,4 @@
-<a href="http://unicms.io"><img src="http://unicms.io/banners/standalone.png" /></a>
+## Abandonware
 
 # universe:cookie-info
 ReactJS component for showing information about using cookies by your app/site.
